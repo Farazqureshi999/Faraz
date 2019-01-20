@@ -1,2 +1,2 @@
 # FarazQureshiProjects
-This my all Projecy
+This my all Projects
